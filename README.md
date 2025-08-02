@@ -70,9 +70,8 @@ This project presents a comprehensive **Sales Dashboard** designed to provide in
 
 ---
 
-## 📬 Contact
+## 📬 Author
 
-For any feedback or collaboration:
 **Aviral**  
 
 ---
